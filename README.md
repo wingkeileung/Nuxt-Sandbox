@@ -20,3 +20,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Screenshots
+![/Cars page](/screenshots/SS1.png?raw=true "Lists of cars")
+![/Car detail page](/screenshots/SS2.png?raw=true "Car detail page")
+![Responsive design](/screenshots/SS3.png?raw=true "Responsive design")
